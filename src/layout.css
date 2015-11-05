@@ -1,0 +1,12 @@
+.container-wide {
+  max-width: 55em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-widest {
+  max-width: 65em;
+  margin-left: auto;
+  margin-right: auto;
+}
+

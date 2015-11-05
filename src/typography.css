@@ -1,0 +1,6 @@
+@custom-media --breakpoint-md (min-width: 54em);
+
+@media (--breakpoint-sm) {
+  .sm-h3 { font-size: var(--h3); }
+}
+

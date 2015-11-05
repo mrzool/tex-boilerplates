@@ -1,0 +1,55 @@
+.border-bottom { border-bottom-style: dotted; }
+
+.border-double {
+  border-style: double;
+  border-width: 3px;
+  letter-spacing: 0.09em;
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+}
+
+
+.dotted {
+  background-image: linear-gradient(to right, #333 26%, rgba(255, 255, 255, 0) 0%);
+  background-position: bottom;
+  background-size: 10px 1px;
+  background-repeat: repeat-x;
+}
+
+.flaired {
+  height: 30px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
+.flaired:before { /* Not really supposed to work, but does */
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: black;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
+}
+
+.glyph {
+  border: none;
+  border-top: medium double #333;
+  color: var(--black);
+  text-align: center;
+}
+.glyph:after {
+  content: "§";
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background: var(--white);
+}
+

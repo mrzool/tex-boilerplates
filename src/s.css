@@ -1,0 +1,20 @@
+@import "latex";
+/* @import "et-book"; */
+@import "basscss";
+@import "basscss-utility-headings";
+@import "layout";
+@import "lines";
+@import "typography";
+
+:root {
+  --font-family: 'Old Standard TT', Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  --heading-font-family: 'Old Standard TT', Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  --heading-font-weight: normal;
+  --container-width: 45em;
+  --white: #ede0ce;
+  --black: #202A25;
+  --blue: #26547C;
+  --red: #EF476F;
+  --gray: #4C5C68;
+  --border-color: var(--black);
+}
