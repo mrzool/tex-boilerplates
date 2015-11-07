@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "parallelshell 'npm run build:css' 'npm run server'",
-    "build:css": "watch 'node index.js' src/",
+    "build:css": "watch 'node css.js' src/",
     "minify:css": "uncss index.html | cssnano > css/s.min.css",
     "server": "browser-sync start --server --files 'css/*.css, *.html'"
   },
