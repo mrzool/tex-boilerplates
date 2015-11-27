@@ -713,7 +713,7 @@ hr {
 /* Basscss Grid */
 
 .container {
-  max-width: 45em;
+  max-width: 65em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -1120,8 +1120,6 @@ hr {
   margin-left: auto;
   margin-right: auto;
 }
-.border-bottom { border-bottom-style: dotted; }
-
 .border-double {
   border-style: double;
   border-width: 3px;
