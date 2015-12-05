@@ -3,6 +3,7 @@
 .h0-responsive { font-size: 4.5vw;}
 
 @custom-media --breakpoint-md (min-width: 54em);
+@custom-media --breakpoint-sm (min-width: 37em);
 
 @media (--breakpoint-sm) {
   .sm-h3 { font-size: var(--h3); }
