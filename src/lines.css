@@ -8,7 +8,6 @@
   height: 1em;
 }
 
-
 .dotted {
   background-image: linear-gradient(to right, #333 26%, rgba(255, 255, 255, 0) 0%);
   background-position: bottom;
