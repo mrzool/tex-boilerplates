@@ -676,7 +676,7 @@ hr {
   display: none !important
 }
 
-@media (min-width: 40em) {
+@media (min-width: 37em) {
   .sm-show { display: block !important }
 }
 
@@ -689,7 +689,7 @@ hr {
 }
 
 
-@media (min-width: 40em) {
+@media (min-width: 37em) {
   .sm-hide { display: none !important }
 }
 
@@ -774,7 +774,7 @@ hr {
 .col-12 {
   width: 100%;
 }
-@media (min-width: 40em) {
+@media (min-width: 37em) {
 
   .sm-col {
     float: left;
@@ -986,7 +986,7 @@ hr {
 
 .flex-first { order: -1 }
 .flex-last  { order: 99999 }
-@media (min-width: 40em) {
+@media (min-width: 37em) {
   .sm-flex { display: flex }
 }
 @media (min-width: 54em) {
@@ -1174,6 +1174,6 @@ hr {
 
 .h0-responsive { font-size: 4.5vw;}
 
-@media (min-width: 40em) {
+@media (min-width: 37em) {
   .sm-h3 { font-size: 1.25rem; }
 }
