@@ -1170,6 +1170,9 @@ hr {
   padding: 0 0.25em;
   background: #ede0ce;
 }
+.caps { letter-spacing: .1em; }
+
+.h0-responsive { font-size: 4.5vw;}
 
 @media (min-width: 40em) {
   .sm-h3 { font-size: 1.25rem; }
