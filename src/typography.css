@@ -1,3 +1,7 @@
+.caps { letter-spacing: .1em; }
+
+.h0-responsive { font-size: 4.5vw;}
+
 @custom-media --breakpoint-md (min-width: 54em);
 
 @media (--breakpoint-sm) {
