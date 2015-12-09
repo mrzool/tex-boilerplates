@@ -10,7 +10,7 @@ Built in less than an afternoon using [mnml](http://mn-ml.cc/) and [basscss](htt
 
 ## Local development
 
-1. Clone the project and `cd` into it.
+1. Fork the project, clone it on your machine and `cd` into it.
 2. `npm install && npm start`
 3. Open `index.html` and start hacking.
 
