@@ -1,6 +1,6 @@
 # LaTeX Boilerplates
 
-Unified landing page for three LaTeX/Pandoc sibling projects:
+[Unified landing page](http://mrzool.cc/tex-boilerplates/) for three LaTeX/Pandoc sibling projects:
 
 - [cv-boilerplate](https://github.com/mrzool/cv-boilerplate)
 - [letter-boilerplate](https://github.com/mrzool/letter-boilerplate)
