@@ -6,6 +6,14 @@
 - [letter-boilerplate](https://github.com/mrzool/letter-boilerplate)
 - [invoice-boilerplate](https://github.com/mrzool/invoice-boilerplate)
 
+Built using [mnml](https://github.com/mrmrs/mnml) and [basscss](http://www.basscss.com/).
+
+## Local development
+
+1. Clone the project and `cd` into it.
+2. `npm install && npm start`
+3. Open `index.html` and start hacking.
+
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
