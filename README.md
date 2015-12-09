@@ -6,7 +6,7 @@
 - [letter-boilerplate](https://github.com/mrzool/letter-boilerplate)
 - [invoice-boilerplate](https://github.com/mrzool/invoice-boilerplate)
 
-Built using [mnml](https://github.com/mrmrs/mnml) and [basscss](http://www.basscss.com/).
+Built using [mnml](http://mn-ml.cc/) and [basscss](http://www.basscss.com/).
 
 ## Local development
 
